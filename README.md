@@ -32,6 +32,8 @@ ETEpipeline/
 ## Tableau Visualization  
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/eadd99ef-edb8-4046-a708-41a08688042c" />
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/75c1d8a3-bf4a-4584-96fc-559de647eea2" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/09aa7735-32e6-45b0-b881-c6d1d7242aef" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/6ba17417-1cf7-42b3-abbf-33badd48114b" />
 
 ## 3. Step-by-Step Implementation  
 
