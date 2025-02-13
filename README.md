@@ -22,7 +22,8 @@ This document describes the directory structure for the **ETEpipeline** project.
 
 ```plaintext
 ETEpipeline/  
-│── 📂 data/              # Raw and processed data files  
+│── 📂 data/              # Raw and processed data files
+│── 📂 docs/              # Project Documentation
 │── 📂 notebooks/         # Jupyter notebooks for analysis and processing  
 │── 📂 scripts/           # Python scripts for ETL, transformation, and automation  
 │── 📄 .gitignore         # Git ignore file to exclude unnecessary files  
