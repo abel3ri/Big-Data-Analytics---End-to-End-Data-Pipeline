@@ -28,7 +28,7 @@ ETEpipeline/
 │── 📄 .gitignore         # Git ignore file to exclude unnecessary files  
 
 ```
-## Tableau Visulization  
+## Tableau Visualization  
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/eadd99ef-edb8-4046-a708-41a08688042c" />
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/75c1d8a3-bf4a-4584-96fc-559de647eea2" />
 
